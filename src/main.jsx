@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from 'pages/App'
-import List from 'pages/todolist'
+import App from './pages/App'
+import List from './pages/todolist'
 import './index.css'
 import { BrowserRouter,Route,Routes } from 'react-router-dom'
 
